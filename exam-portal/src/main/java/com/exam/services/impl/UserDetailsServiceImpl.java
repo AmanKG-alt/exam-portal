@@ -1,4 +1,4 @@
-package com.exam.services;
+package com.exam.services.impl;
 
 import com.exam.model.User;
 import com.exam.repositories.UserRepository;
