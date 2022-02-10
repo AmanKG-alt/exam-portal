@@ -1,7 +1,8 @@
 package com.exam.config;
 
 
-import com.exam.services.UserDetailsServiceImpl;
+
+import com.exam.services.impl.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -5,7 +5,7 @@ import com.exam.exception.UserNotFoundException;
 import com.exam.model.JwtRequest;
 import com.exam.model.JwtResponse;
 import com.exam.model.User;
-import com.exam.services.UserDetailsServiceImpl;
+import com.exam.services.impl.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
